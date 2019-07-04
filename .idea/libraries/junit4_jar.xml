@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="junit4.jar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Downloads/junit4.jar.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/junit4.jar.zip!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/junit4.jar.zip!/" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="jar://$USER_HOME$/Downloads/junit4.jar.zip!/" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/junit4.jar.zip!/" />
+    </SOURCES>
+    <jarDirectory url="jar://$USER_HOME$/Downloads/junit4.jar.zip!/" recursive="false" />
+    <jarDirectory url="jar://$USER_HOME$/Downloads/junit4.jar.zip!/" recursive="false" type="SOURCES" />
+  </library>
+</component>

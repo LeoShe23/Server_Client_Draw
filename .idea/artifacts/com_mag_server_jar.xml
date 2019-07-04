@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="com.mag.server:jar">
+    <output-path>$PROJECT_DIR$/Server/artifacts/com_mag_server_jar</output-path>
+    <root id="archive" name="com.mag.server.jar">
+      <element id="module-output" name="com.mag.server" />
+    </root>
+  </artifact>
+</component>
